@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ED2 questoes 2 e 3/ED2 questoes 2 e 3.iml" filepath="$PROJECT_DIR$/ED2 questoes 2 e 3/ED2 questoes 2 e 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ED2 questoes 2 e 3/Programa 3 - Dijkstra Modificado/Programa 3 - Dijkstra Modificado.iml" filepath="$PROJECT_DIR$/ED2 questoes 2 e 3/Programa 3 - Dijkstra Modificado/Programa 3 - Dijkstra Modificado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ED2 questoes 1 e 4/questao1-trabalho3-ed2/questao1-trabalho3-ed2.iml" filepath="$PROJECT_DIR$/ED2 questoes 1 e 4/questao1-trabalho3-ed2/questao1-trabalho3-ed2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ED2 questoes 1 e 4/questao4 - trabalho3-ed2/questao4 - trabalho3-ed2.iml" filepath="$PROJECT_DIR$/ED2 questoes 1 e 4/questao4 - trabalho3-ed2/questao4 - trabalho3-ed2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/trabalho3- ed-2.iml" filepath="$PROJECT_DIR$/.idea/trabalho3- ed-2.iml" />
+    </modules>
+  </component>
+</project>
